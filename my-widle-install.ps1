@@ -5,4 +5,5 @@ winget install -e -h --id Bitwarden.Bitwarden --source winget
 winget install -e -h --id Git.Git --source winget
 winget install -e -h --id Microsoft.AzureCLI --source winget
 winget install -e -h --id Spotify.Spotify --source winget
+winget install -e -h --id 7zip.7zip --source winget
 Install-Module Microsoft.Graph,Az -Repository PSGallery
