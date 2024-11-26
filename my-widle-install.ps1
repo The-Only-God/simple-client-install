@@ -7,4 +7,4 @@ winget install -e -h --id Microsoft.AzureCLI --source winget
 winget install -e -h --id Spotify.Spotify --source winget
 winget install -e -h --id 7zip.7zip --source winget
 winget install -e -h --id 9NKSQGP7F2NH --source msstore # WhatsApp
-Install-Module Microsoft.Graph,Az -Repository PSGallery
+Install-Module Microsoft.Graph,Az,ExchangeOnlineManagement -Repository PSGallery
